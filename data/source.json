@@ -1,0 +1,298 @@
+{
+  "analysisDate": "2026-11-06",
+  "source": "Sportbutik – portfolio.xlsx.xlsx",
+  "products": [
+    {
+      "id": "P001",
+      "name": "Fotboll",
+      "supplier": "Nordic Sport",
+      "cost": 120,
+      "price": 249,
+      "stock": 8,
+      "leadWeeks": 1
+    },
+    {
+      "id": "P002",
+      "name": "Basketboll",
+      "supplier": "Nordic Sport",
+      "cost": 140,
+      "price": 299,
+      "stock": 15,
+      "leadWeeks": 1
+    },
+    {
+      "id": "P003",
+      "name": "Yogamatta",
+      "supplier": "Active Supply",
+      "cost": 90,
+      "price": 229,
+      "stock": 20,
+      "leadWeeks": 2
+    },
+    {
+      "id": "P004",
+      "name": "Vattenflaska",
+      "supplier": "Active Supply",
+      "cost": 35,
+      "price": 99,
+      "stock": 10,
+      "leadWeeks": 2
+    },
+    {
+      "id": "P005",
+      "name": "Ryggsäck",
+      "supplier": "Outdoor Partner",
+      "cost": 220,
+      "price": 499,
+      "stock": 45,
+      "leadWeeks": 3
+    },
+    {
+      "id": "P006",
+      "name": "Vandringsstavar",
+      "supplier": "Outdoor Partner",
+      "cost": 180,
+      "price": 399,
+      "stock": 30,
+      "leadWeeks": 3
+    },
+    {
+      "id": "P007",
+      "name": "Pannlampa",
+      "supplier": "Outdoor Partner",
+      "cost": 110,
+      "price": 279,
+      "stock": 12,
+      "leadWeeks": 3
+    },
+    {
+      "id": "P008",
+      "name": "Hopprep",
+      "supplier": "Active Supply",
+      "cost": 40,
+      "price": 129,
+      "stock": 25,
+      "leadWeeks": 2
+    },
+    {
+      "id": "P009",
+      "name": "Tennisracket",
+      "supplier": "Nordic Sport",
+      "cost": 350,
+      "price": 799,
+      "stock": 40,
+      "leadWeeks": 1
+    },
+    {
+      "id": "P010",
+      "name": "Träningsband",
+      "supplier": "Active Supply",
+      "cost": 55,
+      "price": 149,
+      "stock": 18,
+      "leadWeeks": 2
+    }
+  ],
+  "sales": [
+    {
+      "week": 1,
+      "productId": "P001",
+      "quantity": 12
+    },
+    {
+      "week": 1,
+      "productId": "P002",
+      "quantity": 6
+    },
+    {
+      "week": 1,
+      "productId": "P003",
+      "quantity": 10
+    },
+    {
+      "week": 1,
+      "productId": "P004",
+      "quantity": 25
+    },
+    {
+      "week": 1,
+      "productId": "P005",
+      "quantity": 5
+    },
+    {
+      "week": 1,
+      "productId": "P006",
+      "quantity": 3
+    },
+    {
+      "week": 1,
+      "productId": "P007",
+      "quantity": 8
+    },
+    {
+      "week": 1,
+      "productId": "P008",
+      "quantity": 15
+    },
+    {
+      "week": 1,
+      "productId": "P009",
+      "quantity": 4
+    },
+    {
+      "week": 1,
+      "productId": "P010",
+      "quantity": 18
+    },
+    {
+      "week": 2,
+      "productId": "P001",
+      "quantity": 15
+    },
+    {
+      "week": 2,
+      "productId": "P002",
+      "quantity": 7
+    },
+    {
+      "week": 2,
+      "productId": "P003",
+      "quantity": 12
+    },
+    {
+      "week": 2,
+      "productId": "P004",
+      "quantity": 30
+    },
+    {
+      "week": 2,
+      "productId": "P005",
+      "quantity": 6
+    },
+    {
+      "week": 2,
+      "productId": "P006",
+      "quantity": 4
+    },
+    {
+      "week": 2,
+      "productId": "P007",
+      "quantity": 9
+    },
+    {
+      "week": 2,
+      "productId": "P008",
+      "quantity": 17
+    },
+    {
+      "week": 2,
+      "productId": "P009",
+      "quantity": 5
+    },
+    {
+      "week": 2,
+      "productId": "P010",
+      "quantity": 20
+    },
+    {
+      "week": 3,
+      "productId": "P001",
+      "quantity": 18
+    },
+    {
+      "week": 3,
+      "productId": "P002",
+      "quantity": 8
+    },
+    {
+      "week": 3,
+      "productId": "P003",
+      "quantity": 11
+    },
+    {
+      "week": 3,
+      "productId": "P004",
+      "quantity": 35
+    },
+    {
+      "week": 3,
+      "productId": "P005",
+      "quantity": 7
+    },
+    {
+      "week": 3,
+      "productId": "P006",
+      "quantity": 4
+    },
+    {
+      "week": 3,
+      "productId": "P007",
+      "quantity": 10
+    },
+    {
+      "week": 3,
+      "productId": "P008",
+      "quantity": 19
+    },
+    {
+      "week": 3,
+      "productId": "P009",
+      "quantity": 4
+    },
+    {
+      "week": 3,
+      "productId": "P010",
+      "quantity": 22
+    },
+    {
+      "week": 4,
+      "productId": "P001",
+      "quantity": 20
+    },
+    {
+      "week": 4,
+      "productId": "P002",
+      "quantity": 9
+    },
+    {
+      "week": 4,
+      "productId": "P003",
+      "quantity": 13
+    },
+    {
+      "week": 4,
+      "productId": "P004",
+      "quantity": 40
+    },
+    {
+      "week": 4,
+      "productId": "P005",
+      "quantity": 8
+    },
+    {
+      "week": 4,
+      "productId": "P006",
+      "quantity": 5
+    },
+    {
+      "week": 4,
+      "productId": "P007",
+      "quantity": 12
+    },
+    {
+      "week": 4,
+      "productId": "P008",
+      "quantity": 21
+    },
+    {
+      "week": 4,
+      "productId": "P009",
+      "quantity": 6
+    },
+    {
+      "week": 4,
+      "productId": "P010",
+      "quantity": 24
+    }
+  ]
+}
